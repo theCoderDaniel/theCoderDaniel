@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theCoderDaniel
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning html, css, python
+- 🌱 I’m currently learning html, css, javascript and python
 - ⚡ Fun fact: bruh
 
 <!---
