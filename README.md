@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">IT Apprentice from Germany with a Passion for Web and Mobile Technologies</h3>
 
-- 🔭 I’m currently working on <a href="https://thecoderdaniel.github.io/AzubiAssist/" target="_blank" rel="noopener noreferrer">AzubiAssist</a>
+- 🔭 I’m currently working on [AzubiAssist](https://thecoderdaniel.github.io/AzubiAssist/)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at <a href="https://thecoderdaniel.github.io/MyPortfolioPage/" target="_blank" rel="noopener noreferrer">https://thecoderdaniel.github.io/MyPortfolioPage/</a>
+- 👨‍💻 All of my projects are available at [https://thecoderdaniel.github.io/MyPortfolioPage/](https://thecoderdaniel.github.io/MyPortfolioPage/)
+
 - 📫 How to reach me **daniel.koch@mail.de**
 
 <h3 align="left">Connect with me:</h3>
