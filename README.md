@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">IT Apprentice from Germany with a Passion for Web and Mobile Technologies</h3>
 
-- 🔭 I’m currently working on [AzubiAssist]([https://thecoderdaniel.github.io/AzubiAssist/](https://thecoderdaniel.github.io/AzubiAssist/])
+- 🔭 I’m currently working on [AzubiAssist](thecoderdaniel.github.io/AzubiAssist/)
 
 - 🌱 I’m currently learning **Flutter**
 
